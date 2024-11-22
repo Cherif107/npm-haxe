@@ -45,8 +45,8 @@
     "fs-extra": "8.1.0"
   },
   "haxeDependencies": {
-    "haxe": "3.4.7",
-    "haxelib": "3.3.0",
-    "neko": "2.2.0"
+    "haxe": "4.3.4",
+    "haxelib": "4.1.0",
+    "neko": "2.3.0"
   }
 }
